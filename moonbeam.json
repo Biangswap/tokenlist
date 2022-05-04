@@ -13,6 +13,14 @@
       "logoURI": "https://raw.githubusercontent.com/Biangswap/tokenlist/main/moonbeam-logo.png"
     },
     {
+      "address": "0x3758FFf377C3afDAf6AB11D1756B0823a4f50111",
+      "chainId": 1284,
+      "name": "Moonbeam-Peg Dogecoin Token",
+      "symbol": "DOGE",
+      "decimals": 8,
+      "logoURI": "https://biangswap.com/token-images/dogecoin-logo.png"
+    },
+    {
       "address": "0xE9AE3c26979D108b27d9936a010717F69C1F62F6",
       "chainId": 1284,
       "name": "Shiba Chess",
