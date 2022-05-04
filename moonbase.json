@@ -5,10 +5,10 @@
   "timestamp": "2022-05-02T00:00:00+00:00",
   "tokens": [
     {
-      "address": "0xdde930122A685455AE81217a0A2b47eeC43e6E77",
+      "address": "0x25580F4D520D747b03252cCaF048D69c02d0Cb1e",
       "chainId": 1287,
-      "name": "Wrapped GLMR",
-      "symbol": "WGLMR",
+      "name": "Wrapped DEV",
+      "symbol": "WDEV",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Biangswap/tokenlist/main/moonbase-logo.png"
     },
