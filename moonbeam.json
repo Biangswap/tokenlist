@@ -1,0 +1,29 @@
+{
+  "name": "Moonbeam",
+  "logoURI": "https://raw.githubusercontent.com/Biangswap/tokenlist/main/moonbeam-logo.png",
+  "keywords": ["moonbeam", "tokens", "biangswap"],
+  "timestamp": "2022-05-04T00:00:00+00:00",
+  "tokens": [
+    {
+      "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
+      "chainId": 1284,
+      "name": "Wrapped GLMR",
+      "symbol": "WGLMR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Biangswap/tokenlist/main/moonbeam-logo.png"
+    },
+    {
+      "address": "0xE9AE3c26979D108b27d9936a010717F69C1F62F6",
+      "chainId": 1284,
+      "name": "Shiba Chess",
+      "symbol": "SHESS",
+      "decimals": 18,
+      "logoURI": "https://biangswap.com/token-images/shibachess-logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
