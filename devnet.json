@@ -1,0 +1,37 @@
+{
+    "name": "Devnet",
+    "logoURI": "https://raw.githubusercontent.com/Biangswap/tokenlist/main/ethereum-logo.png",
+    "keywords": ["tokens", "biangswap"],
+    "timestamp": "2022-05-04T00:00:00+00:00",
+    "tokens": [
+      {
+        "address": "0x587835262b6bE036c1869473F0C7c9F40471f2Df",
+        "chainId": 223344,
+        "name": "Wrapped ETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Biangswap/tokenlist/main/ethereum-logo.png"
+      },
+      {
+        "address": "0xB25e97081A32DE414C229b7B019CcB158e097F7e",
+        "chainId": 223344,
+        "name": "Pegged Aptos Coin",
+        "symbol": "APT",
+        "decimals": 18,
+        "logoURI": "https://biangswap.com/logo/aptos-logo.png"
+      },
+      {
+        "address": "0x761E5a598D352296096f20bEBdeCE5B464815251",
+        "chainId": 223344,
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "logoURI": "https://biangswap.com/logo/USDT.png"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
