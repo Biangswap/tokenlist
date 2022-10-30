@@ -18,7 +18,7 @@
         "name": "DAI Stablecoin",
         "symbol": "DAI",
         "decimals": 18,
-        "logoURI": "https://biangswap.com/token-images/dai-logo.png"
+        "logoURI": "https://biangswap.com/logo/dai-logo.png"
       },
       {
         "address": "0x65E2fe35C30eC218b46266F89847c63c2eDa7Dc7",
@@ -26,7 +26,7 @@
         "name": "Tether USD",
         "symbol": "USDT",
         "decimals": 8,
-        "logoURI": "https://biangswap.com/token-images/USDT.png"
+        "logoURI": "https://biangswap.com/logo/USDT.png"
       }
     ],
     "version": {
