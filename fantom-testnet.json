@@ -1,0 +1,37 @@
+{
+    "name": "Devnet",
+    "logoURI": "https://raw.githubusercontent.com/Biangswap/tokenlist/main/ethereum-logo.png",
+    "keywords": ["tokens", "biangswap"],
+    "timestamp": "2022-05-04T00:00:00+00:00",
+    "tokens": [
+      {
+        "address": "0x0b2891F28dd9CE49b0Eee75c5A717cab6F05dA32",
+        "chainId": 4002,
+        "name": "Wrapped FTM",
+        "symbol": "WFTM",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Biangswap/tokenlist/main/ethereum-logo.png"
+      },
+      {
+        "address": "0x3fa4cE90D52A8Dc13Ea23d66e40A1C352C5E2d93",
+        "chainId": 4002,
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "logoURI": "https://biangswap.com/logo/USDT.png"
+      },
+      {
+        "address": "0x431e3a8a7c1c278179Db280EE5f0d13c16c3754c",
+        "chainId": 4002,
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "logoURI": "https://biangswap.com/logo/USDT.png"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
