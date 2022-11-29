@@ -13,12 +13,20 @@
         "logoURI": "https://raw.githubusercontent.com/Biangswap/tokenlist/main/ethereum-logo.png"
       },
       {
-        "address": "0xB25e97081A32DE414C229b7B019CcB158e097F7e",
+        "address": "0xEC6dA4d3E700604b5e9B428597230A78139D74F5",
         "chainId": 223344,
-        "name": "Pegged Aptos Coin",
-        "symbol": "APT",
+        "name": "Binance USD",
+        "symbol": "BUSD",
         "decimals": 18,
-        "logoURI": "https://biangswap.com/logo/aptos-logo.png"
+        "logoURI": "https://biangswap.com/logo/BUSD.png"
+      },
+      {
+        "address": "0xD3b96C7EBF8d28E578b29419b59319Ec46e56C9A",
+        "chainId": 223344,
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "logoURI": "https://biangswap.com/logo/DAI.png"
       },
       {
         "address": "0x761E5a598D352296096f20bEBdeCE5B464815251",
