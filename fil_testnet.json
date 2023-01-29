@@ -1,0 +1,21 @@
+{
+    "name": "Filecoin Testnet",
+    "logoURI": "https://biangswap.com/logo/filecoin-logo.png",
+    "keywords": ["tokens", "biangswap"],
+    "timestamp": "2022-05-04T00:00:00+00:00",
+    "tokens": [
+      {
+        "address": "0x3EdE5f78640B13533dB43e5280874330f490165D",
+        "chainId": 3141,
+        "name": "Wrapped FIL",
+        "symbol": "WFIL",
+        "decimals": 18,
+        "logoURI": "https://biangswap.com/logo/filecoin-logo.png"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
